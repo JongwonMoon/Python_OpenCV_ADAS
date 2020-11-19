@@ -16,7 +16,7 @@
       * Slope, Intercept 구하기
       
       
-  3. 차선 이탈시 경고 - LDW 구현
+  3. 차선 이탈시 경고 - LDW(Lane Depature Warning) 구현
       * 차선 범위 이탈시 경고
       
       
@@ -24,7 +24,7 @@
       * Using YOLO for Car etection
   
   
-  5. 앞차와의 거리 경고 - FDW 구현
+  5. 앞차와의 거리 경고 - FCW(Foward Collision Warning) 구현
       * 일정거리 이하 경고  
     
    
