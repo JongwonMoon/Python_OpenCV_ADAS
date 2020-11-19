@@ -21,7 +21,7 @@
       
       
   4. 차량 검출 
-      * Using YOLO for Car etection
+      * Using YOLO for Car Detection
   
   
   5. 앞차와의 거리 경고 - FCW(Foward Collision Warning) 구현
