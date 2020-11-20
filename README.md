@@ -28,3 +28,7 @@
       * 일정거리 이하 경고  
     
    
+   
+  * yolo모델 구축
+    https://pjreddie.com/darknet/yolo/
+   
